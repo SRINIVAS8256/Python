@@ -84,8 +84,10 @@
 #         print(i)
 # even()
 def even():
-    i = 0
-    for _ in range(50):  # 100/2 iterations
-        print(i)
-        i += 2
-even()
+    i = 2
+    if i%2 == 0:
+        return "even"
+    else:
+        return "odd"
+
+print(even())
