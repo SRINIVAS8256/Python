@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55fa9abe-1c15-4017-b5ec-7395b17354ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Basics/Topics of python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basics/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basics/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basics/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Basics/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.functions.executor": "Run",
     "Python.guessing_game.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.nested_loop(pattern).executor": "Run",
     "Python.try.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
