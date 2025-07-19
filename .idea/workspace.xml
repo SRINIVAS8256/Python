@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55fa9abe-1c15-4017-b5ec-7395b17354ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_Basics/Topics of python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Basics/main.py" afterDir="false" />
+    <list default="true" id="52738169-6801-4d24-8e8f-e83421aade3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python_Basics/builin_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basics/built_in_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Basics/while_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Basics/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Basics/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Basics/type_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Basics/type_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +30,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2zHhLIklosA6CEemkWBlvwQuas8" />
+  <component name="ProjectId" id="304n8Fs3fa3ZtQEAGog5pj7YJ6m" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,16 +41,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.functions.executor": "Run",
-    "Python.guessing_game.executor": "Debug",
-    "Python.main.executor": "Run",
-    "Python.nested_loop(pattern).executor": "Run",
+    "Python.built_in_modules.executor": "Run",
     "Python.try.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -57,11 +58,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55fa9abe-1c15-4017-b5ec-7395b17354ed" name="Changes" comment="" />
-      <created>1751393849194</created>
+      <changelist id="52738169-6801-4d24-8e8f-e83421aade3c" name="Changes" comment="" />
+      <created>1752895551802</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751393849194</updated>
+      <updated>1752895551802</updated>
     </task>
     <servers />
   </component>
