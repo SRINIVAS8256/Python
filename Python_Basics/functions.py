@@ -91,3 +91,13 @@ def even():
         return "odd"
 
 print(even())
+
+
+
+def duplicate(l1):
+    l2=[]
+    for i in l1:
+        if i not in l2:
+            l2.append(i)
+    print(l2)
+duplicate([1,2,3,3,3,3,1,1])
