@@ -101,3 +101,39 @@ def duplicate(l1):
             l2.append(i)
     print(l2)
 duplicate([1,2,3,3,3,3,1,1])
+
+
+#IIIIMMMPPPP 💯💯
+
+
+#def (a,b)here a and b are parameters💯
+
+#💯 (1,2) are arguments
+
+#1.DEFAULT ARGUMENT
+#2.POSITIONAL ARGUMENT
+#3.KEYWORD ARGUMENT
+#4.ARBITARY ARGUMENT
+
+
+#Default argument
+def power(a=1,b=1):
+    return a**b
+print(power(2,3))#8
+
+#2.POSITIONAL ARGUMENT
+#arguments will assign parallally with respect to parameters
+#or
+#we can use positional arguments
+
+print(power(b=2,a=3))#9
+z=2
+c=3
+print(power(z,c))#8
+
+print(power(z=2,c=3))# power() got an unexpected keyword argument 'z'
+
+#3.Keyword argument
+#priority is greater than positional
+
+#4.ARBITARY ARGUMENT
